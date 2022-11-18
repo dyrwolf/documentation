@@ -1,16 +1,22 @@
 site_name: Dyrwolf
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Audits: audits.md
+  - Range: range.md
+  - Key Capture: capture.md
+  - EASM: easm.md
 theme:
   name: material
-  palette: 
-
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
+  palette:
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
