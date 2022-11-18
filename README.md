@@ -1,2 +1,2 @@
-# documentation
-Public documentation for Dyrwolf tools
+# Dyrwolf Documentation
+Please view documentation at https://dyrwolf.github.io/documentation/

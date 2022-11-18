@@ -1,6 +1,6 @@
 # Welcome to Dyrwolf
 
-Visit us at [dyrwolf.com](https://dyrwolf.com).
+[Website](https://dyrwolf.com) | [About Us](https://dyrwolf.com/about) | [Contact Us](https://dyrwolf.com/contact)
 
 ## Services
 
